@@ -1,0 +1,18 @@
+{
+  "name": "should-bot",
+  "version": "0.0.1",
+  "description": "How often is your Slack team using the word 'should'?",
+  "main": "app.js",
+  "author": {
+    "name": "Mike Ball",
+    "email": "mikedball@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "blah"
+  },
+  "dependencies": {
+    "slackbots": "",
+    "redis": ""
+  }
+}
