@@ -8,6 +8,8 @@
 A Slackbot that tracks how many times the word "should" is used in your software development
 team's Slack channel.
 
+Example:
+
 ![Example usage](example_usage.png)
 
 ## Running
