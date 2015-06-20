@@ -7,7 +7,7 @@ var SlackBot = require('slackbots'),
     params = {
       icon_emoji: ':cat:'
     },
-    endpoint = process.env.SHOULD_COUNTER_API_ENDPOINT
+    endpoint = process.env.SHOULD_COUNTER_API_ENDPOINT;
 
 bot.on('start', handleStart);
 bot.on('message', handleMessage);
