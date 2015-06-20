@@ -8,6 +8,8 @@
 A Slackbot that tracks how many times the word "should" is used in your software development
 team's Slack channel.
 
+![Example usage](example_usage.png)
+
 ## Running
 
 shoulda-coulda works in concert with [should-counter-api](https://github.com/mdb/should-counter-api).
