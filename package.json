@@ -1,5 +1,5 @@
 {
-  "name": "should-bot",
+  "name": "shoulda-coulda",
   "version": "0.0.1",
   "description": "How often is your Slack team using the word 'should'?",
   "main": "app.js",
@@ -9,10 +9,10 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "blah"
+    "test": "echo TODO"
   },
   "dependencies": {
-    "slackbots": "",
-    "request": ""
+    "slackbots": "0.1.0",
+    "request": "2.58.0"
   }
 }
