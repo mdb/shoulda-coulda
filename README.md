@@ -15,7 +15,7 @@ Example:
 ## Running
 
 shoulda-coulda works in concert with [should-counter-api](https://github.com/mdb/should-counter-api).
-shoulda-coulda assumes you are running a `should-counter-api` to which "shoulds" can be saved and fetched.
+shoulda-coulda assumes you are running a `should-counter-api` through which "shoulds" can be saved and fetched.
 
 shoulda-coulda assumes the presence of 3 environment variables:
 
