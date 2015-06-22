@@ -1,6 +1,6 @@
 # shoulda-coulda
 
-> What _should_ technology do? Computers don't understand what _should_ be,
+> What _should_ technology do? Computers don't understand what _ought_ to be,
 > only what _is_. Behind use of the word "should" lives the messy soup of human
 > beliefs on how the world ought to function: emotions, perspective, culture,
 > politics, and :turtle: :turtle: :turtle: all the way down.
